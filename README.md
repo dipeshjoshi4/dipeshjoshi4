@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipesh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Torrecid India PVT.LTD**
-
 - 🌱 I’m currently learning **FSJS Bootcamp2.0**
 
 - 📝 I regularly write articles on [https://dipeshjoshi4.hashnode.dev/](https://dipeshjoshi4.hashnode.dev/)
