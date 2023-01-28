@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FSJS Bootcamp2.0**
 
-- 📝 I regularly write articles on <a href="https://hashnode.com/@dipeshjoshi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritcode10" height="30" width="40" /></a>
+- 📝 I regularly write articles on hashnoad <a href="https://hashnode.com/@dipeshjoshi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritcode10" height="30" width="40" /></a>
 
 - 💬 Ask me about **html,css,js,tailwind**
 
