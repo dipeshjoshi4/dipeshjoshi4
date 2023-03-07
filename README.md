@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **FSJS Bootcamp2.0**
 
-- 📝 I regularly write articles on  <a href="https://hashnode.com/@dipeshjoshi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritcode10" height="30" width="40" /></a>
+- 📝 I regularly write articles on  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/)
+
+
 
 - 💬 Ask me about **html,css,javaScript,tailwind**
 
