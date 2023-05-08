@@ -36,3 +36,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshjoshi4&" alt="dipeshjoshi4" /></p>
+
+<a href="https://app.daily.dev/dipesh_joshi23"><img src="https://api.daily.dev/devcards/9f2b85fee1404df0a725a2412fc493ac.png?r=9bk" width="400" alt="dipesh joshi's Dev Card"/></a>
