@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipesh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **FSJS Bootcamp2.0**
+
 
 - 📝 I regularly write articles on  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/)
-
-
 
 - 💬 Ask me about **html,css,javaScript,tailwind**
 
@@ -24,6 +22,18 @@
 <a href="https://instagram.com/dipesh_joshi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipesh_joshi1" height="30" width="40" /></a>
  <a href="https://hashnode.com/@dipeshjoshi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pritcode10" height="30" width="40" /></a>
 </p>
+
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+
+**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
 
 <h3 align="left">Languages and Tools:</h3>
 
