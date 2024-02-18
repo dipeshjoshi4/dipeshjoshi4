@@ -25,15 +25,11 @@
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Material-UI` 
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git` `GitHub` 
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
-
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
-
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+**Backend Development:**  `Firebase` 
 
 <h3 align="left">Languages and Tools:</h3>
 
