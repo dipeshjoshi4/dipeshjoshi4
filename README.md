@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dipesh Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
+### Hey, I'm Dipesh 👋🏽  
 
+I'm a 24-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- 📝 I regularly write articles on  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/)
-
-- 💬 Ask me about **html,css,javaScript,tailwind**
-
-- 📫 How to reach me **dipeshj2310@gmail.com**
-
+- Check out my [website](https://dipesh-joshi.netlify.app/) to learn more about me.
+- Explore my [blog](https://dipeshjoshi4.hashnode.dev/) where I share insights and learnings.
+- In my [Newsletter](https://substack.com/inbox), I share my learnings and tips to become a better developer.
 - ⚡ Fun fact **I Design Sometimes!!!**
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
