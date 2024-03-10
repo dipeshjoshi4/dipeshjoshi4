@@ -10,7 +10,7 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Material-UI` 
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React` `NextJS` `Tailwind CSS` `Material-UI` 
  
 **Version Control:** `Git` `GitHub` 
 
