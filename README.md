@@ -19,7 +19,7 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/webdevdj/) or [LinkedIn](https://www.linkedin.com/in/dipesh-joshi-2512a2162/). 
+ For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/dipesh-joshi-2512a2162/). 
  
 
 ![Dipesh's Github State](https://github-readme-stats.vercel.app/api?username=dipeshjoshi4&show_icons=true&theme=transparent)
