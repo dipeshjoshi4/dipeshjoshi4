@@ -24,5 +24,9 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dipeshjoshi4&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dipeshjoshi4)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dipeshjoshi4" alt="GitHub Streak" /></a>
+
 
 
