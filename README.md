@@ -22,10 +22,7 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
  For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/dipesh-joshi-2512a2162/). 
  
 
-![Dipesh's Github State](https://github-readme-stats.vercel.app/api?username=dipeshjoshi4&show_icons=true&theme=transparent)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dipeshjoshi4&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshjoshi4&" alt="dipeshjoshi4" /></p>
 
