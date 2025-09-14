@@ -23,7 +23,6 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=dipeshjoshi4)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dipeshjoshi4)](https://git.io/streak-stats)
 
 
  
