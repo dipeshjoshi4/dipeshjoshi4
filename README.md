@@ -21,6 +21,8 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
  For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/dipesh-joshi-2512a2162/). 
 
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dipeshjoshi4&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipeshjoshi4)](https://git.io/streak-stats)
 
 
