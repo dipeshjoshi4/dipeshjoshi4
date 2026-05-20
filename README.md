@@ -25,6 +25,26 @@ I'm a 24-year-old developer based in India, and I'm passionate about crafting di
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipeshjoshi4)](https://git.io/streak-stats)
 
+ import 'package:streak_calculator/streak_calculator.dart';
+
+void main() {
+  // Track daily meditation sessions
+  final meditationDates = [
+    DateTime(2025, 9, 15),
+    DateTime(2025, 9, 16),
+    DateTime(2025, 9, 17),
+    DateTime(2025, 9, 18),
+    DateTime(2025, 9, 19), // Today
+  ];
+  final streakCalc = StreakCalculator(
+    dates: meditationDates,
+    streakType: StreakType.daily,
+  );
+
+  print('Current meditation streak: ${streakCalc.currentStreak} days');
+  print('Best meditation streak: ${streakCalc.bestStreak} days');
+}
+
 
 
 
